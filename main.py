@@ -10,8 +10,8 @@ import os
 TEXT = (
     "The old dog sleeps by the stove, his chin on his paws, the fire "
     "ticking itself down to embers. Late light comes through the window "
-    "and lies still on the floor. Nothing in the house needs doing. "
-    "Stay a while. The quiet will keep."
+    "and lies still on the floor. The kettle hums low, then settles, and "
+    "the dog sighs in his sleep. The room keeps its own slow time."
 )
 
 
